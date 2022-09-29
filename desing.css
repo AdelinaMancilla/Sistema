@@ -1,0 +1,98 @@
+section {
+  margin: 107px 85px 107px 85px;
+
+}
+
+.RGray {
+  position: absolute;
+  width: 1270px;
+  height: 780px;
+  left: 85px;
+  top: 108px;
+
+  background: #D9D9D9;
+  border-radius: 20px;
+}
+
+h1 {
+  position: absolute;
+  width: 564px;
+  height: 50px;
+  left: 450px;
+  top: 12px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #000000;
+}
+
+.Rwrite {
+  position: absolute;
+  width: 1001px;
+  height: 535px;
+  left: 130px;
+  top: 80px;
+
+  background: #FFFFFF;
+
+}
+
+.Rred {
+
+  position: absolute;
+  width: 900px;
+  height: 120px;
+  padding: 18PX;
+  left: 30px;
+  top: 19px;
+  border-radius: 10px;
+  background: #F9EEEE;
+
+}
+
+.Button {
+  position: absolute;
+  width: 339px;
+  height: 90px;
+  left: 450px;
+  top: 650px;
+  stroke: none;
+  background: #218036;
+  border-radius: 20px;
+  color: #FFFFFF;
+}
+
+p.first {
+  position: absolute;
+  width: 900px;
+  height: 120px;
+  left: 30px;
+  top: 1px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+
+}
+
+p.Button {
+  position: absolute;
+  width: 339px;
+  height: 90px;
+  left: 450px;
+  top: 650px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #FFFFFF;
+}
